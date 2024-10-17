@@ -153,7 +153,7 @@ Please contribute in separate branches if you come up with further advancements,
 
 ## 🌟 Author
 **Ahmed Shokr**  
-[GitHub](https://github.com/ahmedShokrr) | [LinkedIn](https://www.linkedin.com/in/ahmed-shokr-015426229/) | [Email](Gmail:shokra19@gmail.com)
+[GitHub](https://github.com/ahmedShokrr) | [LinkedIn](https://www.linkedin.com/in/ahmed-shokr-015426229/) | [Email](mailto:shokra19@gmail.com)
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
