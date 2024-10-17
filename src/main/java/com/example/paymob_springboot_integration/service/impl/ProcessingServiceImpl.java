@@ -31,7 +31,7 @@ public class ProcessingServiceImpl implements ProcessingService {
         String success = (String) payload.get("success");
         String paymobOrderId = (String) payload.get("order_id");
 
-        Payment payment = paymentRepository.findByOrderId(paymobOrderId)
+        Payment payment = paymentRepository.findByPaymentId(paymobOrderId)
                 .orElseThrow(() -> new RuntimeException("Payment not found"));
 
         if ("true".equalsIgnoreCase(success)) {
