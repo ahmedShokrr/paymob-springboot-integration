@@ -40,7 +40,7 @@ Follow these steps to set up and run the project locally:
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/ahmedshokrr/paymob-springboot-integration.git
+    git clone https://github.com/ahmedShokrr/paymob-springboot-integration.git
     cd paymob-sprinboot-integration
     ```
 
