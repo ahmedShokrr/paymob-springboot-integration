@@ -7,7 +7,6 @@
 - [🔌 Installation and Run](#-installation-and-run)
 - [📁 File Structure](#-file-structure)
 - [🤝 Contribution](#-contribution)
-- [🔄 Features Not Implemented](#-features-not-implemented)
 - [📖 Resources](#-resources)
 - [🌟 Author](#-author)
 - [📄 License](#-license)
